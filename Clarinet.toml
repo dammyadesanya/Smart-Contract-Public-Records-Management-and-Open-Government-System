@@ -10,8 +10,8 @@ path = 'contracts/access-request.clar'
 clarity_version = 2
 epoch = 2.5
 
-[contracts.access-request_]
-path = 'contracts/access-request_.clar'
+[contracts.retention-schedule]
+path = 'contracts/retention-schedule.clar'
 clarity_version = 2
 epoch = 2.5
 [repl.analysis]
